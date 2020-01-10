@@ -1,2 +1,2 @@
-# Web_Sraping
+# Web_Scrapping
 web scrapping projects
